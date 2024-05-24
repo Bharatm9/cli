@@ -61,3 +61,5 @@ autolabeler:
       - "/^(feat|feature)/i"
     body:
       - "/type: feature/i"
+
+
